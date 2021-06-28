@@ -83,5 +83,5 @@ ${shvan.content}`
 
 // ======== { • TOKENN • }======== //
 
-client.login("لێرە تۆکین دانە");
+client.login("ODU5MDQ1MzAzNjU5NTI4MjEz.YNm-SA.lC7gbGy-bGmCDPWuyWrPxi2FgoE");
 ////////////////
